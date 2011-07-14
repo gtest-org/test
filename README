@@ -12,11 +12,7 @@ Parallel change A.
 
 revision test 1
 revision test 2
-test push branch
-test push branch2
-test push branch3
-test push branch4
-test push branch5
+test push branch6
 
 
 
