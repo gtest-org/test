@@ -1,3 +1,0 @@
-[submodule "openstack-ci"]
-	path = openstack-ci
-	url = git://github.com/openstack/openstack-ci.git
