@@ -7,9 +7,3 @@ if 'fail' in sys.argv:
     sys.exit(1)
 print 'Test succeeded.'
 sys.exit(0)
-#topic b
-# change to master
-#test br1
-#test br1 2
-#test merge
-#merge
