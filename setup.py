@@ -7,7 +7,7 @@ if 'fail' in sys.argv:
     sys.exit(1)
 print 'Test succeeded.'
 sys.exit(0)
-#topic b
+#topic tagtest
 # change to master
 #test br1
 #test br1 2
